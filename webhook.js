@@ -1,5 +1,5 @@
 setInterval(() => {
-fetch('TOKEN LINK',{
+fetch('WEBHOOK LINK',{
  method: 'POST',
  headers: {
         'content-type': 'application/json'
